@@ -22,6 +22,7 @@ nav ul{
 
     justify-content: space-around;
     text-decoration: none;
+    
 }
 
 
@@ -31,4 +32,6 @@ main{
     justify-content: space-evenly;
     align-items: center;
     align-content: center;
+
+    
 }
