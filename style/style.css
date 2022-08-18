@@ -5,6 +5,7 @@
 }
 
 header{
+    color: white;
     display: flex;
 
     background-color: rgb(75, 75, 75);
@@ -12,6 +13,15 @@ header{
 
     justify-content: space-around;
     align-items: center;
+}
+
+nav ul{
+    display: flex;
+
+    width: 300px;
+
+    justify-content: space-around;
+    text-decoration: none;
 }
 
 
